@@ -1,3 +1,13 @@
+NOTE
+====
+
+Ongoing development of DALiuGE is nowadays happening at
+
+`<https://github.com/ICRAR/daliuge>`_
+
+You can go there and get the latest version. This repository is only left here
+for reference.
+
 Data Flow Management System
 ===========================
 
