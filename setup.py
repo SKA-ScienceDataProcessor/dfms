@@ -27,6 +27,23 @@ from setuptools import setup
 import os
 
 
+raise Exception("""
+The code in this repository is extremely out of date.
+
+As of June 2017 the main development of DALiuGE has been moved to:
+
+https://github.com/ICRAR/daliuge
+
+This repository has been kept alive for historical purposes, although
+that under ICRAR/daliuge still contains the full development history
+as kept by git.
+
+On top of that, daliuge distributions are regularly uploaded to PyPI,
+which means that in practice you can probably install daliuge via:
+
+$> pip install daliuge
+""")
+
 # Version information
 # We do like numpy: we have a major/minor/patch hand-written version written
 # here. If we find the git commit (either via "git" command execution or in a
