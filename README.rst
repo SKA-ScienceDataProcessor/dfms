@@ -1,12 +1,12 @@
 NOTE
 ====
 
-Ongoing development of DALiuGE is nowadays happening at
+Ongoing development of DALiuGE (previosuly called the Data Flow Management System, DFMS) is nowadays happening at
 
 `<https://github.com/ICRAR/daliuge>`_
 
 You can go there and get the latest version. This repository is only left here
-for reference.
+as the official frozen deliverable of the prototype to the SDP consortium.
 
 Data Flow Management System
 ===========================
